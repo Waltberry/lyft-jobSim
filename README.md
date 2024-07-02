@@ -51,7 +51,3 @@
 | + evaluate(engine) : bool |
 | + evaluate(battery) : bool |
 +-----------------+
-
-
-[![Model Answer](https://img.shields.io/badge/Lyft-Answer)](https://github.com/vagabond-systems/forage-lyft-task-2-model-answer)
-
