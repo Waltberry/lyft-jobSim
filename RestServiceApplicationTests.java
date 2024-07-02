@@ -51,3 +51,6 @@
 | + evaluate(engine) : bool |
 | + evaluate(battery) : bool |
 +-----------------+
+
+
+https://github.com/vagabond-systems/forage-lyft-task-2-model-answer
